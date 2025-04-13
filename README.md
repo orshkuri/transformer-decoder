@@ -96,23 +96,6 @@ Checkpoints are saved automatically to `./checkpoints/` every *N* steps. Trainin
 
 ---
 
-## 📖 Sample Output
-
-### Shakespeare (early epoch)
-
-```text
-Shall I compare thee to a summer’s day?
-Thou art more lovely and more temperate.
-```
-
-### Hebrew (early epoch)
-
-```text
-היום הזה הוא התחלה חדשה מלאה באור ותקווה.
-```
-
----
-
 ## 📚 Acknowledgments
 
 This project was completed as part of a graduate‑level Deep Learning course. The code emphasizes educational value, reproducibility, and a bottom‑up understanding of Transformer models.
